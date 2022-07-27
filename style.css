@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(235, 244, 249);
+}
+
+.box {
+    padding: 50px;
+}
+
+.fa-brands {
+    color: rgb(38, 38, 224);
+}
+
+.box-part {
+    background-color: whitesmoke;
+    margin-top: 50px;
+    padding: 40px 10px;
+    border-radius: 5%;
+    margin-right: 25px;
+}
+
+span {
+    font-size: 13px;
+}
+
+.text {
+    margin: 20px 0px;
+}
+
+a {
+    border-bottom: 2px solid blue;
+}
